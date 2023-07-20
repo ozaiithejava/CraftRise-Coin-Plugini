@@ -1,0 +1,51 @@
+name: Expercoins
+version: '${project.version}'
+main: me.ozaii.expert.coin.expercoins.Expercoins
+api-version: 1.8.8
+authors: [ ozaii ]
+description: this made by ozaii
+commands:
+  coinim:
+    description: Shows the player's coin balance
+    usage: /coinim
+  topcoin:
+    description: Shows the top players with the highest coin balance
+    usage: /topcoin
+  c:
+    description: Coin related commands
+    usage: /c <subcommand> [arguments]
+  levelim:
+    description: Shows the player's level
+    usage: /levelim
+  l:
+    description: Level related commands
+    usage: /l <subcommand> [arguments]
+  expim:
+    description: Shows the player's experience points (XP)
+    usage: /expim
+  e:
+    description: Experience related commands
+    usage: /e <subcommand> [arguments]
+  p:
+    description: Profile related commands
+    usage: /p <subcommand> [arguments]
+  profil:
+    description: Profile information command
+    usage: /profil <player_name>
+  toplevel:
+    description: Tablodaki en yüksek seviyeye sahip oyuncuları listeler
+    usage: /toplevel
+  coinyolla:
+    description: Coin yollama komutu
+    usage: /coinyolla <oyuncu> <miktar>
+  flipcoin:
+    description: Yazı Tura
+    usage: /fipcoin
+  oduller:
+    description: odul komutu.
+    usage: /oduller
+
+permissions:
+  ExperCoin.admin:
+    description: Allows access to all ExperCoins commands
+    default: op

@@ -1,0 +1,9 @@
+# MySQL veritabanbabilgileri
+mysql:
+  host: localhost
+  port: 3306
+  database: mydatabase
+  username: myusername
+  password: mypassword
+  table: player_data
+  table2: reaward_data
