@@ -15,7 +15,7 @@ Eklentinin izinsiz kopyalanması, dağıtılması veya satılması yasaktır.
 
 ## İletişim
 
-Eklenti ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [destek@craftrise.com](mailto:destek@craftrise.com) adresi üzerinden bize ulaşın.
+Eklenti ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen github üzerinden bize ulaşın.
 
 ---
 
