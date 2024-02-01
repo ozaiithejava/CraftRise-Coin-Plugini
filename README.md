@@ -8,6 +8,8 @@ CraftRise Coin Level XP Plugin, CraftRise sunucularında oyun oynarken oyuncular
 ## Kullanım
 
 Bu eklentiyi kullanmak için spigot ve papi gereklidir
+Plugins klasörüne atın jarı calıstırın sunucuyu sonra kapatın sonra config.yml gelicek onu duzenleyin mysql bilgilerinizi girin ve hazir.
+
 ## Yasal Uyarı
 
 Bu eklenti, yalnızca kişisel ve eğlence amaçları için kullanılmalıdır. Bu eklenti ile elde edilen herhangi bir avantaj veya haksız kazanç cezalandırılabilir ve yasal işlemler başlatılabilir.
