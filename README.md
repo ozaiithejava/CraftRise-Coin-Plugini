@@ -102,3 +102,6 @@ profiliniz
 ---
 
 CraftRise Coin Level XP Plugin, Ozaii ve ekibi tarafından geliştirilmiştir ve tüm hakları saklıdır. İzinsiz kullanım veya dağıtım durumunda yasal işlemler başlatılacaktır.
+ 
+### Oyun ici gorseller :
+![Spigot Logo](https://cdn.discordapp.com/attachments/1198742427251523666/1202951639783178250/image.png?ex=65cf5304&is=65bcde04&hm=1b358f64db83ec6f1f213f5abefcc91b1be8d73925a83b2635cff28b9d92d83c&)
