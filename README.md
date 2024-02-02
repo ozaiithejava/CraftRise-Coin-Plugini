@@ -16,6 +16,25 @@ Bu eklenti, yalnızca kişisel ve eğlence amaçları için kullanılmalıdır. 
 
 Eklentinin izinsiz kopyalanması, dağıtılması veya satılması yasaktır.
 
+## PlaceHolders Kullanımı:
+
+
+
+1. Öncelikle PlaceholderAPI'nin yüklü olduğundan emin olun.
+2. Oyunculara özel metinleri göstermek için, bu sınıfın sağladığı placeholder'ları kullanabilirsiniz.
+
+Örneğin, oyunculara `/papi parse <oyuncu> %expercoins_xp%` komutunu kullanarak "Oyuncunun XP'si: xxx" gibi bir mesaj gösterebilirsiniz.
+
+#### PlaceHolders:
+
+- `%expercoins_xp%`: Oyuncunun XP'sini gösterir.
+- `%expercoins_coin%`: Oyuncunun coin miktarını gösterir.
+- `%expercoins_level%`: Oyuncunun seviyesini gösterir.
+- `%expercoins_join_date%`: Oyuncunun katılma tarihini gösterir.
+- `%expercoins_top_coin%`: En çok coine sahip oyuncuların listesini gösterir.
+- `%expercoins_top_xp%`: En çok XP'e sahip oyuncuların listesini gösterir.
+- `%expercoins_top_level%`: En yüksek seviyede oyuncuların listesini gösterir.
+
 
 ## Coin Api Kullanımı:
 
