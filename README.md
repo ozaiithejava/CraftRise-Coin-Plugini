@@ -112,6 +112,6 @@ CraftRise Coin Level XP Plugin, Ozaii ve ekibi tarafından geliştirilmiştir ve
 
 ![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953250865815572/image.png?ex=65cf5484&is=65bcdf84&hm=326c58655a7af97cd10bdb46c01ef8f6fdc939500c311acb614f20574b7f1974&)
 
-![Placeholders3]()
+![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953329831845948/image.png?ex=65cf5497&is=65bcdf97&hm=94f4059b4817bfcef8ca609462926580e8d224639630c8091351a1df4ff1f250&)
 
-![Placeholders3]()
+![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953423293644810/image.png?ex=65cf54ad&is=65bcdfad&hm=6c7a6d7d396bfb72ff644c109c9e965395cb3e2983f5efa9a8afc1378bd81ca6&)
