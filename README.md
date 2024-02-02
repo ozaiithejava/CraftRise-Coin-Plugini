@@ -74,18 +74,30 @@ Exp sistemi 100xp de 1 level artıcak şekilde düzenlenmiştir istediğiniz gib
 
 ## Komutlar:
 
-coinim
-topcoin
-expim
-c
-l
-e
-p
-fipcoin
+#### coinim
+coin miktarıni gosterir
+#### topcoin
+en yuksek coinleri gosterir
+#### expim
+xp nizi gosterir
+#### c
+coin admin komutlari
+#### l
+level admin komutlari 
+#### e
+xp admin komutlari
+#### p
+profil admin komutlari
+#### fipcoin
+yazi tura
+#### oduller
 oduller
-coinyolla 
-toplevel
-profil 
+#### coinyolla 
+coin yollama
+#### toplevel
+en yuksek leveller
+#### profil 
+profiliniz
 
 ---
 
