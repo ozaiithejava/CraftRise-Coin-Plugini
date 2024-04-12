@@ -80,11 +80,3 @@ Exp sistemi 100xp de 1 level artacak şekilde düzenlenmiştir, istediğiniz gib
 
 **CraftRise Coin Level XP Plugin**, Ozaii ve ekibi tarafından geliştirilmiştir ve tüm hakları saklıdır. İzinsiz kullanım veya dağıtım durumunda yasal işlemler başlatılacaktır.
 
-### Oyun İçi Görseller:
-
-![Spigot Logo](https://cdn.discordapp.com/attachments/1198742427251523666/1202951639783178250/image.png?ex=65cf5304&is=65bcde04&hm=1b358f64db83ec6f1f213f5abefcc91b1be8d73925a83b2635cff28b9d92d83c&)
-![Placeholder1](https://cdn.discordapp.com/attachments/1198742427251523666/1202953112193867876/image.png?ex=65cf5463&is=65bcdf63&hm=56dd63f41d87af656e13afdd8f9c5a31eb7aa234932d0f4a36814517b4085cba&)
-![Placeholder2](https://cdn.discordapp.com/attachments/1198742427251523666/1202953167302565908/image.png?ex=65cf5470&is=65bcdf70&hm=0b07134eadca926fb7a9d8827d304743dbb449e0d4d85c0050e544c21f22ba89&)
-![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953250865815572/image.png?ex=65cf5484&is=65bcdf84&hm=326c58655a7af97cd10bdb46c01ef8f6fdc939500c311acb614f20574b7f1974&)
-![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953329831845948/image.png?ex=65cf5497&is=65bcdf97&hm=94f4059b4817bfcef8ca609462926580e8d224639630c8091351a1df4ff1f250&)
-![Placeholders3](https://cdn.discordapp.com/attachments/1198742427251523666/1202953423293644810/image.png?ex=65cf54ad&is=65bcdfad&hm=6c7a6d7d396bfb72ff644c109c9e965395cb3e2983f5efa9a8afc1378bd81ca6&)
